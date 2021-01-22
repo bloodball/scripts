@@ -14,4 +14,4 @@ _G.High_Ping_Enabled = {
 
 _G.Time_Format = 24 -- 24/12
 wait(math.random(10, 20))
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IiIIiIiIIIiiIiiIIiIIIii-warrior/scripts/master/fps.lua"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/bloodball/scripts/master/autoexec/fps%20backup"), true))()
